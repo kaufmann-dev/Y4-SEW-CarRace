@@ -1,0 +1,16 @@
+C:\Users\David\School projects\RacingCard\RacingCard\RacingCard\bin\Debug\net5.0\RacingCard.exe
+C:\Users\David\School projects\RacingCard\RacingCard\RacingCard\bin\Debug\net5.0\RacingCard.deps.json
+C:\Users\David\School projects\RacingCard\RacingCard\RacingCard\bin\Debug\net5.0\RacingCard.runtimeconfig.json
+C:\Users\David\School projects\RacingCard\RacingCard\RacingCard\bin\Debug\net5.0\RacingCard.runtimeconfig.dev.json
+C:\Users\David\School projects\RacingCard\RacingCard\RacingCard\bin\Debug\net5.0\RacingCard.dll
+C:\Users\David\School projects\RacingCard\RacingCard\RacingCard\bin\Debug\net5.0\ref\RacingCard.dll
+C:\Users\David\School projects\RacingCard\RacingCard\RacingCard\bin\Debug\net5.0\RacingCard.pdb
+C:\Users\David\School projects\RacingCard\RacingCard\RacingCard\obj\Debug\net5.0\RacingCard.csproj.AssemblyReference.cache
+C:\Users\David\School projects\RacingCard\RacingCard\RacingCard\obj\Debug\net5.0\RacingCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\School projects\RacingCard\RacingCard\RacingCard\obj\Debug\net5.0\RacingCard.AssemblyInfoInputs.cache
+C:\Users\David\School projects\RacingCard\RacingCard\RacingCard\obj\Debug\net5.0\RacingCard.AssemblyInfo.cs
+C:\Users\David\School projects\RacingCard\RacingCard\RacingCard\obj\Debug\net5.0\RacingCard.csproj.CoreCompileInputs.cache
+C:\Users\David\School projects\RacingCard\RacingCard\RacingCard\obj\Debug\net5.0\RacingCard.dll
+C:\Users\David\School projects\RacingCard\RacingCard\RacingCard\obj\Debug\net5.0\ref\RacingCard.dll
+C:\Users\David\School projects\RacingCard\RacingCard\RacingCard\obj\Debug\net5.0\RacingCard.pdb
+C:\Users\David\School projects\RacingCard\RacingCard\RacingCard\obj\Debug\net5.0\RacingCard.genruntimeconfig.cache

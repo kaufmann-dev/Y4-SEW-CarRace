@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "63FfwLHJZMvCls19dLsax6IYG1MjWkKfvc6JiIS3lVl9f4NReCAKhNCpLiP25XnK3PnyeeSv++TmTBUSrJBLHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\David\\School projects\\RacingCard\\RacingCard\\RacingCard\\RacingCard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.7\\microsoft.netcore.app.host.win-x64.5.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
